@@ -8,7 +8,6 @@ Um aplicativo de desenho super simples e bonitinho, feito com **Python** e **Kiv
 
 - Seleção de **cores** (vermelho, verde, azul, preto, amarelo)
 - Variação de **grossura do pincel** (1 a 4)
-- Interface temática super fofa com coelhinhos e fundo rosa 🐰🌟
 
 ![Demonstração](assets/demo.png)
 
