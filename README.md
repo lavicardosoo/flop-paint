@@ -2,7 +2,7 @@
 
 Um aplicativo de desenho super simples e bonitinho, feito com **Python** e **Kivy**! Ideal para rabiscar, treinar traços ou apenas se divertir um pouco desenhando corações, estrelas e o que sua imaginação mandar 💖
 
-![Screenshot](demo2.png)
+![Screenshot](assets/demo2.png)
 
 ## ✨ Funcionalidades
 
@@ -10,7 +10,7 @@ Um aplicativo de desenho super simples e bonitinho, feito com **Python** e **Kiv
 - Variação de **grossura do pincel** (1 a 4)
 - Interface temática super fofa com coelhinhos e fundo rosa 🐰🌟
 
-![Demonstração](demo.png)
+![Demonstração](assets/demo.png)
 
 ## 🛠️ Tecnologias
 
