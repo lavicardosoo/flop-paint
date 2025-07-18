@@ -1,6 +1,6 @@
 # 🎨 FlopPaint
 
-Um aplicativo de desenho super simples e bonitinho, feito com **Python** e **Kivy**! Ideal para rabiscar, treinar traços ou apenas se divertir um pouco desenhando corações, estrelas e o que sua imaginação mandar 💖
+Um aplicativo de desenho simples feito com **Python** e **Kivy**! 💖
 
 ![Screenshot](assets/demo2.png)
 
