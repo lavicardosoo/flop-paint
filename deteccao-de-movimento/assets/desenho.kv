@@ -1,0 +1,35 @@
+# desenho.kv
+
+<TelaTrans>:
+    name: 'main'
+
+    FloatLayout: 
+
+        TelaBrancaCisHetero:
+            id: drawing_area
+            size_hint: None, None
+            size: root.width/2, root.height
+            pos_hint: {"center_x": 0.75, "center_y": 0.5}
+            canvas.before:
+                Color:
+                    rgba: 1, 1, 1, 1  # Branco (R=1, G=1, B=1, A=1)
+                Rectangle:
+                    pos: self.pos
+                    size: self.size
+
+        Image:
+            id: camera_view
+            size_hint: None, None
+            size: root.width/2, root.height
+            pos_hint: {"center_x": 0.25, "center_y": 0.5}
+
+        Image:
+            source: 'bg.png' 
+            allow_stretch: True
+            keep_ratio: False
+            size_hint:None,None
+            size: 450,360
+            pos_hint: {"center_x": 0.25, "center_y": 0.5}
+        
+
+
