@@ -13,7 +13,7 @@ import mediapipe as mp
 
 Window.size = (900,360)
 
-Builder.load_file("desenho.kv")
+Builder.load_file("assets/desenho.kv")
 
 cor = (0,0,0,1)
  
